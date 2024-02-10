@@ -1,0 +1,40 @@
+/* Navbar */
+.btn1{
+    width: 150px;
+    height: 40px;
+    font-size: 17px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.btn1:hover{
+    background-color: rgb(255, 187, 0);
+}
+.navv{
+    margin-left: 90px;
+    font-size: 40px;
+    color: white;
+    font-weight: 700;
+}
+.navbar-nav{
+    margin-left: 170px;
+   
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color:rgb(255, 187, 0);
+}
+/* Middle-one */
+.middle{
+    text-align: center;
+    margin-top: 160px;
+ 
+
+}
+.size{
+    font-weight: 700;
+    font-size: 60px;
+}
