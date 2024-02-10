@@ -151,3 +151,30 @@ height: 100%;
     border-radius: 20px;
     border:0cm;
  }
+ 
+ /* Call to Action sec */
+ .call-sec{
+    background-image: url(img/cta-bg.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    color: white;
+    text-align: center;
+ }
+ .cl-div{
+    padding: 80px;
+ }
+ .btn2{
+    width: 150px;
+    height: 40px;
+    font-size: 17px;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    padding: 4px;
+  
+}
+.btn2:hover{
+    background-color:rgb(241, 189, 45);
+    color:black;
+}
+/* Portfolio Section */
