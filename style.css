@@ -111,3 +111,16 @@ height: 100%;
  .box:hover{
     opacity: 1;
  }
+ /* 3rd section */
+ .card-img3{
+    width: 100%;
+    height: 660px;
+    filter: blur(4px);
+ }
+ .iconn{
+    font-size: 40px;
+    color:white
+ }
+ .iconn:hover{
+    color:rgb(255, 187, 0)
+ }
