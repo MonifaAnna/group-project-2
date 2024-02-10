@@ -125,3 +125,29 @@ height: 100%;
     color:rgb(255, 187, 0)
  }
  /* Services Section  */
+ .boxes{
+    width: 410px;
+    height: 350px;
+    padding: 10px;
+    text-align:center ;
+    margin: 17px;
+    border: 1px solid rgb(227, 221, 221);
+ }
+ .ico{
+    margin-left: 160px;
+    text-align: center;
+    width: 70px;
+    height: 70px;
+    font-size: 30px;
+    padding-top: 8px;
+    background-color: rgb(255, 187, 0);
+    margin-top: 70px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+ }
+ .boxes:hover{
+    background-color: rgb(241, 189, 45);
+    
+    border-radius: 20px;
+    border:0cm;
+ }
